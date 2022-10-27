@@ -101,7 +101,6 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,6 +164,7 @@ Project Link: [https://github.com/daibeal/big-data-processing-project](https://g
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
